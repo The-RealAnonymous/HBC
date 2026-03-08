@@ -1,7 +1,10 @@
 [
-  "Nidhe🤣",
-  "Lil Broskisj",
-  "Physics Paper 1",
-  "Physics Paper 2",
-  "Chemistry Paper 1"
+  {
+    "name": "Math Paper 2023.pdf",
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/papers/math2023.pdf"
+  },
+  {
+    "name": "Biology Paper 2022.pdf",
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/papers/bio2022.pdf"
+  }
 ]
